@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/improved-journey",
-  "version": "2.2.50",
+  "version": "2.2.51",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -422,5 +422,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/improved-journey/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
